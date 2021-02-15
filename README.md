@@ -9,4 +9,3 @@ Projeto de aprendizado, desenvolvido no bootcamp **everis** Full Stack Developer
 <img src="./img/site-tela-969x551.png">
 <img src="./img/site-mobile.png">
 
-"# Clone-Instagram-Front-End" 
